@@ -236,4 +236,4 @@ This repository serves as the official landing page for RS Somnifero. The softwa
 **Get the most recent version of RS Somnifero today!**
 
 ---
-**Last updated:** 2026-10-25 08:00:54 UTC
+**Last updated:** 2026-10-25 13:29:47 UTC
